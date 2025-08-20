@@ -92,11 +92,11 @@ function HomePage() {
             </div>
             <div className="md:w-5/12">
               <h2 className="text-3xl font-bold mb-6">About TrinityByte</h2>
-              <p className="text-gray-600 mb-6">
+              <p className="mb-6">
                 TrinityByte is a leading IT solutions provider with a passion for innovation. 
                 We help businesses of all sizes leverage technology to achieve their goals and stay ahead of the competition.
               </p>
-              <p className="text-gray-600 mb-8">
+              <p className="mb-8">
                 With our team of experienced professionals, we deliver customized solutions that address your unique challenges and drive growth.
               </p>
               <Link to="/about" className="bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-6 rounded-md inline-block">

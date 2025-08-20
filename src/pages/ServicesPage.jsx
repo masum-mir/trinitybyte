@@ -116,7 +116,7 @@ function ServicesPage() {
   return (
     <div>
       {/* Hero Section */}
-      <section className="bg-blue-600 text-white py-20">
+      <section className="bg-slate-900 text-white py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl font-bold mb-6">Our Services</h1>
           <p className="text-xl max-w-3xl mx-auto">
@@ -140,9 +140,9 @@ function ServicesPage() {
                 </div>
                 <div className={`md:w-1/2 ${index % 2 === 1 ? 'md:pr-12' : 'md:pl-12'}`}>
                   <h2 className="text-3xl font-bold mb-4">{service.title}</h2>
-                  <p className="text-gray-600 mb-6">{service.description}</p>
+                  <p className="mb-6">{service.description}</p>
                   <h3 className="text-xl font-bold mb-3">Key Features:</h3>
-                  <ul className="list-disc pl-5 mb-6 text-gray-600">
+                  <ul className="list-disc pl-5 mb-6">
                     {service.features.map((feature, i) => (
                       <li key={i} className="mb-1">{feature}</li>
                     ))}

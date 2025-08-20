@@ -21,10 +21,9 @@ function ContactPage() {
   };
 
   const handleSubmit = (e) => {
-    e.preventDefault();
-    // Here you would normally submit the form to your backend
+    e.preventDefault(); 
     console.log('Form submitted:', formData);
-    // For demo purposes, we'll just show a success message
+     
     setFormSubmitted(true);
     // Reset form
     setFormData({
@@ -67,7 +66,7 @@ function ContactPage() {
               <form onSubmit={handleSubmit}>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
                   <div>
-                    <label htmlFor="name" className="block text-gray-700 font-medium mb-2">Full Name *</label>
+                    <label htmlFor="name" className="block font-medium mb-2">Full Name *</label>
                     <input
                       type="text"
                       id="name"
@@ -79,7 +78,7 @@ function ContactPage() {
                     />
                   </div>
                   <div>
-                    <label htmlFor="email" className="block text-gray-700 font-medium mb-2">Email Address *</label>
+                    <label htmlFor="email" className="block font-medium mb-2">Email Address *</label>
                     <input
                       type="email"
                       id="email"
@@ -94,7 +93,7 @@ function ContactPage() {
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
                   <div>
-                    <label htmlFor="phone" className="block text-gray-700 font-medium mb-2">Phone Number</label>
+                    <label htmlFor="phone" className="block font-medium mb-2">Phone Number</label>
                     <input
                       type="tel"
                       id="phone"
@@ -105,7 +104,7 @@ function ContactPage() {
                     />
                   </div>
                   <div>
-                    <label htmlFor="company" className="block text-gray-700 font-medium mb-2">Company Name</label>
+                    <label htmlFor="company" className="block font-medium mb-2">Company Name</label>
                     <input
                       type="text"
                       id="company"
@@ -118,7 +117,7 @@ function ContactPage() {
                 </div>
 
                 <div className="mb-6">
-                  <label htmlFor="service" className="block text-gray-700 font-medium mb-2">Service of Interest</label>
+                  <label htmlFor="service" className="block font-medium mb-2">Service of Interest</label>
                   <select
                     id="service"
                     name="service"
@@ -138,7 +137,7 @@ function ContactPage() {
                 </div>
 
                 <div className="mb-6">
-                  <label htmlFor="message" className="block text-gray-700 font-medium mb-2">Your Message *</label>
+                  <label htmlFor="message" className="block font-medium mb-2">Your Message *</label>
                   <textarea
                     id="message"
                     name="message"

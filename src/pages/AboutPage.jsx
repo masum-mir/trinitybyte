@@ -61,13 +61,13 @@ function AboutPage() {
             </div>
             <div className="md:w-1/2 md:pl-12">
               <h2 className="text-3xl font-bold mb-6">Our Story</h2>
-              <p className="text-gray-600 mb-4">
-                Founded in 2015, TrinityByte began as a small team of developers with a big vision: to make enterprise-grade technology solutions accessible to businesses of all sizes.
+              <p className="mb-4">
+                Founded in 2025, TrinityByte began as a small team of developers with a big vision: to make enterprise-grade technology solutions accessible to businesses of all sizes.
               </p>
-              <p className="text-gray-600 mb-4">
+              <p className="mb-4">
                 What started as a web development agency quickly evolved into a comprehensive IT solutions provider as we recognized the growing needs of our clients for integrated technology services.
               </p>
-              <p className="text-gray-600">
+              <p className="">
                 Today, we are proud to serve clients across multiple industries, helping them navigate the complex digital landscape and leverage technology for sustainable growth.
               </p>
             </div>
@@ -165,7 +165,7 @@ function AboutPage() {
               </div>
               <div>
                 <h3 className="text-xl font-bold mb-2">Experienced Team</h3>
-                <p className="text-gray-600">
+                <p className="">
                   Our team consists of experienced professionals with deep expertise in various technology domains.
                 </p>
               </div>
@@ -179,7 +179,7 @@ function AboutPage() {
               </div>
               <div>
                 <h3 className="text-xl font-bold mb-2">Custom Solutions</h3>
-                <p className="text-gray-600">
+                <p className="">
                   We develop tailored solutions that address your specific business needs rather than offering one-size-fits-all packages.
                 </p>
               </div>
@@ -193,7 +193,7 @@ function AboutPage() {
               </div>
               <div>
                 <h3 className="text-xl font-bold mb-2">Collaborative Approach</h3>
-                <p className="text-gray-600">
+                <p className="">
                   We believe in working closely with our clients throughout the project lifecycle, ensuring transparency and alignment.
                 </p>
               </div>
@@ -207,7 +207,7 @@ function AboutPage() {
               </div>
               <div>
                 <h3 className="text-xl font-bold mb-2">Quality Assurance</h3>
-                <p className="text-gray-600">
+                <p className="">
                   We adhere to rigorous quality standards and testing procedures to deliver reliable and robust solutions.
                 </p>
               </div>
@@ -221,7 +221,7 @@ function AboutPage() {
               </div>
               <div>
                 <h3 className="text-xl font-bold mb-2">Ongoing Support</h3>
-                <p className="text-gray-600">
+                <p className="">
                   Our commitment doesn't end with project delivery; we provide continuous support and maintenance services.
                 </p>
               </div>
@@ -235,7 +235,7 @@ function AboutPage() {
               </div>
               <div>
                 <h3 className="text-xl font-bold mb-2">Industry Expertise</h3>
-                <p className="text-gray-600">
+                <p className="">
                   We have served clients across various industries, giving us insights into specific sector challenges and requirements.
                 </p>
               </div>
