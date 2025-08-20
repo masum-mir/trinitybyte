@@ -1,12 +1,35 @@
-# React + Vite
+# 🌐 TrinityByte IT - Company Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="./screenshot.png" alt="TrinityByte IT Screenshot" width="800px" />
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-18.2.0-blue?logo=react&logoColor=white" alt="React Badge"/></a>
+  <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/Deployed%20on-Netlify-brightgreen?logo=netlify" alt="Netlify Badge"/></a>
+  <a href="https://github.com/masum-mir/trinitybyte-it"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License Badge"/></a>
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Overview
+**TrinityByte IT** is the official website of our IT company, built using **React JS**.  
+It is fully responsive, clean, and modern — designed to showcase our services and connect with clients.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ **Features:**
+- ⚡ Fast and responsive  
+- 🎨 Modern UI with React + CSS Framework  
+- 📑 Multi-page navigation with React Router  
+- 📬 Contact form for inquiries  
+
+---
+
+## 🛠️ Tech Stack
+- ⚛️ **React JS** – Frontend Library  
+- 🌐 **React Router DOM** – Client-side Routing  
+- 🎨 **Tailwind CSS** – Styling & Layout  
+- 📜 **Javascript** – Component Logic  
+- 🖼️ **HTML5 & CSS3** – Structure & Design  
+
+---
+ 
