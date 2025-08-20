@@ -46,8 +46,7 @@ npm run dev
  
 ---
 
-✅ Notes:  
-- Make sure to replace `masum-mir` and `trinitybyte` with your GitHub info.  
+✅ Notes:   
 - If your React project uses **Vite**, the default `npm run dev` port is `5173`.  
 - For **Create React App**, use `npm start` instead of `npm run dev`.  
  
