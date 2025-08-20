@@ -3,13 +3,7 @@
 <p align="center">
   <img src="./screenshot.png" alt="TrinityByte IT Screenshot" width="800px" />
 </p>
-
-<p align="center">
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-18.2.0-blue?logo=react&logoColor=white" alt="React Badge"/></a>
-  <a href="https://www.netlify.com/"><img src="https://img.shields.io/badge/Deployed%20on-Netlify-brightgreen?logo=netlify" alt="Netlify Badge"/></a>
-  <a href="https://github.com/masum-mir/trinitybyte-it"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License Badge"/></a>
-</p>
-
+ 
 ---
 
 ## 🚀 Overview
@@ -32,4 +26,21 @@ It is fully responsive, clean, and modern — designed to showcase our services 
 - 🖼️ **HTML5 & CSS3** – Structure & Design  
 
 ---
+
+## 💻 Installation
+1. **Clone this repository**: 
+   git clone https://github.com/masum-mir/trinitybyte.git
+2. **Navigate to project directory**:
+   cd trinitybyte
+3. **Install dependencies**:
+   npm install
+4. **Start the development server**:
+   npm run dev
+
+---
+
+✅ Notes:  
+- Make sure to replace `masum-mir` and `trinitybyte` with your GitHub info.  
+- If your React project uses **Vite**, the default `npm run dev` port is `5173`.  
+- For **Create React App**, use `npm start` instead of `npm run dev`.  
  
