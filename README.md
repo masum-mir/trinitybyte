@@ -27,16 +27,23 @@ It is fully responsive, clean, and modern — designed to showcase our services 
 
 ---
 
-## 💻 Installation
-1. **Clone this repository**: 
-   git clone https://github.com/masum-mir/trinitybyte.git
-2. **Navigate to project directory**:
-   cd trinitybyte
-3. **Install dependencies**:
-   npm install
-4. **Start the development server**:
-   npm run dev
+## 💻 Installation & Setup
 
+Follow these steps to get the project running locally:
+
+```bash
+# 🛠️ 1. Clone this repository
+git clone https://github.com/masum-mir/trinitybyte.git
+
+# 📂 2. Navigate to the project directory
+cd trinitybyte
+
+# 📦 3. Install dependencies
+npm install
+
+# 🚀 4. Start the development server
+npm run dev
+ 
 ---
 
 ✅ Notes:  
